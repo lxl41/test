@@ -1,5 +1,5 @@
 public class HelloWorld{
     public void hello(){
-        System.out.println("Hello, Github!");
+        System.out.println("See you, Github!");
     }
 }
